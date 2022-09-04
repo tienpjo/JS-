@@ -1,0 +1,14 @@
+.selectForm {
+  max-width: 500px;
+  margin: auto;
+}
+#musicTypes {
+  max-width: 200px;
+  margin: 30px;
+}
+#lb-1 {
+  display: block;
+}
+#btn-click {
+  display: block;
+}
